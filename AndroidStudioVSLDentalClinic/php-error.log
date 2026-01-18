@@ -1,0 +1,4918 @@
+[21-Nov-2025 13:51:01 Europe/Berlin] POST data received: Array
+(
+)
+
+[21-Nov-2025 13:51:01 Europe/Berlin] Parsed appointmentid: , serviceid: 
+[21-Nov-2025 13:51:01 Europe/Berlin] Missing appointmentid or serviceid
+[21-Nov-2025 14:27:23 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:27:23 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:27:23 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:45:30 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 14:45:30 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 14:45:30 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 14:45:33 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:45:33 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:45:33 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:45:43 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 14:45:43 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 14:45:43 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 14:45:46 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:45:46 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[21-Nov-2025 14:45:46 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 14:45:51 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:45:51 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:45:51 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:45:57 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:45:57 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:45:57 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:46:00 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:46:00 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:46:00 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:46:02 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:46:02 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[21-Nov-2025 14:46:02 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 14:46:04 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 14:46:04 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 14:46:04 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 14:46:09 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 14:46:09 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 14:46:09 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 14:46:14 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 14:46:14 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 14:46:14 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 14:46:17 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:46:17 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:46:17 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:46:19 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:46:19 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[21-Nov-2025 14:46:19 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 14:46:36 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 14:46:36 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 14:46:36 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 14:46:42 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:46:42 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[21-Nov-2025 14:46:42 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 14:46:46 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:46:46 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:46:46 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:46:51 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 14:46:51 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 14:46:51 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 14:47:20 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:47:20 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:47:20 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:47:38 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:47:38 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:47:38 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:47:41 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:47:41 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:47:41 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:47:43 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 2
+)
+
+[21-Nov-2025 14:47:43 Europe/Berlin] Parsed appointmentid: 2, serviceid: 2
+[21-Nov-2025 14:47:43 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:47:46 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 2
+)
+
+[21-Nov-2025 14:47:46 Europe/Berlin] Parsed appointmentid: 2, serviceid: 2
+[21-Nov-2025 14:47:46 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:47:48 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 2
+)
+
+[21-Nov-2025 14:47:48 Europe/Berlin] Parsed appointmentid: 2, serviceid: 2
+[21-Nov-2025 14:47:48 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:47:51 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:47:51 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:47:51 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:47:52 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:47:52 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[21-Nov-2025 14:47:52 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:47:54 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 2
+)
+
+[21-Nov-2025 14:47:54 Europe/Berlin] Parsed appointmentid: 2, serviceid: 2
+[21-Nov-2025 14:47:54 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:47:56 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:47:56 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:47:56 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:47:58 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:47:58 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[21-Nov-2025 14:47:58 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 14:48:12 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:48:12 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:48:12 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:49:18 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:49:18 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:49:18 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:49:30 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:49:30 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:49:30 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:49:33 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:49:33 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[21-Nov-2025 14:49:33 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 14:49:36 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 14:49:36 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 14:49:36 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 14:49:40 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:49:40 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:49:40 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:58:29 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:58:29 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:58:29 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:58:31 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 14:58:31 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 14:58:31 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 14:58:33 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 14:58:33 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 14:58:33 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 14:58:35 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 14:58:35 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 14:58:35 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 14:58:37 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:58:37 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 14:58:37 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 14:58:38 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[21-Nov-2025 14:58:38 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[21-Nov-2025 14:58:38 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 14:58:41 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:58:41 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[21-Nov-2025 14:58:41 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 14:58:44 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:58:44 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[21-Nov-2025 14:58:44 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 14:58:53 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[21-Nov-2025 14:58:53 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[21-Nov-2025 14:58:53 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 15:00:54 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:00:54 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:00:54 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:02:02 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:02:02 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:02:02 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:02:51 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:02:51 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:02:51 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:02:56 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[21-Nov-2025 15:02:56 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[21-Nov-2025 15:02:56 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 15:04:06 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:04:06 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:04:06 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:04:09 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:04:09 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:04:09 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:04:17 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[21-Nov-2025 15:04:17 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[21-Nov-2025 15:04:17 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 15:04:20 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[21-Nov-2025 15:04:20 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[21-Nov-2025 15:04:20 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 15:04:25 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:04:25 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:04:25 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:04:28 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 15:04:28 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 15:04:28 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 15:06:27 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:06:27 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:06:27 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:06:31 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[21-Nov-2025 15:06:31 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[21-Nov-2025 15:06:31 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 15:06:38 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 15:06:38 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 15:06:38 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 15:10:58 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:10:58 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:10:58 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:11:22 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:11:22 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:11:22 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:12:28 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:12:28 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:12:28 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:14:04 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:14:04 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:14:04 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:15:02 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:15:02 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:15:02 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:15:04 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[21-Nov-2025 15:15:04 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[21-Nov-2025 15:15:04 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 15:17:32 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:17:32 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:17:32 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:17:34 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:17:34 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:17:34 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:17:38 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 15:17:38 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 15:17:38 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 15:17:40 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:17:40 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:17:40 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:18:49 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:18:49 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:18:49 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:18:51 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:18:51 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:18:51 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:18:52 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:18:52 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:18:52 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:18:53 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:18:53 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:18:53 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:24:29 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:24:29 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:24:29 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:25:17 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[21-Nov-2025 15:25:17 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[21-Nov-2025 15:25:17 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 15:25:22 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:25:22 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:25:22 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:25:33 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:25:33 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:25:33 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:26:30 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:26:30 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:26:30 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[21-Nov-2025 15:27:41 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[21-Nov-2025 15:27:41 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[21-Nov-2025 15:27:41 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 15:27:45 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[21-Nov-2025 15:27:45 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[21-Nov-2025 15:27:45 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 15:27:47 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 2
+)
+
+[21-Nov-2025 15:27:47 Europe/Berlin] Parsed appointmentid: 2, serviceid: 2
+[21-Nov-2025 15:27:47 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[21-Nov-2025 15:27:50 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[21-Nov-2025 15:27:50 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[21-Nov-2025 15:27:50 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[21-Nov-2025 15:27:55 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[21-Nov-2025 15:27:55 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[21-Nov-2025 15:27:55 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 02:50:31 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[22-Nov-2025 02:50:31 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[22-Nov-2025 02:50:31 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 03:59:51 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[22-Nov-2025 03:59:51 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[22-Nov-2025 03:59:51 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 04:35:21 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[22-Nov-2025 04:35:21 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[22-Nov-2025 04:35:21 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 04:35:24 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[22-Nov-2025 04:35:24 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[22-Nov-2025 04:35:24 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 04:35:26 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[22-Nov-2025 04:35:26 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[22-Nov-2025 04:35:26 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[22-Nov-2025 04:44:38 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 1
+)
+
+[22-Nov-2025 04:44:38 Europe/Berlin] Parsed appointmentid: 12, serviceid: 1
+[22-Nov-2025 04:44:38 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 04:51:51 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 0
+    [serviceid] => 0
+)
+
+[22-Nov-2025 04:51:51 Europe/Berlin] Parsed appointmentid: 0, serviceid: 0
+[22-Nov-2025 04:51:51 Europe/Berlin] Missing appointmentid or serviceid
+[22-Nov-2025 04:51:52 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 0
+    [serviceid] => 0
+)
+
+[22-Nov-2025 04:51:52 Europe/Berlin] Parsed appointmentid: 0, serviceid: 0
+[22-Nov-2025 04:51:52 Europe/Berlin] Missing appointmentid or serviceid
+[22-Nov-2025 04:57:53 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[22-Nov-2025 04:57:53 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[22-Nov-2025 04:57:53 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 04:57:54 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[22-Nov-2025 04:57:54 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[22-Nov-2025 04:57:54 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 04:57:54 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[22-Nov-2025 04:57:54 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[22-Nov-2025 04:57:54 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 04:57:55 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[22-Nov-2025 04:57:55 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[22-Nov-2025 04:57:55 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 05:02:13 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[22-Nov-2025 05:02:13 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[22-Nov-2025 05:02:13 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 05:02:17 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[22-Nov-2025 05:02:17 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[22-Nov-2025 05:02:17 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 05:02:19 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[22-Nov-2025 05:02:19 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[22-Nov-2025 05:02:19 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 05:02:21 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[22-Nov-2025 05:02:21 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[22-Nov-2025 05:02:21 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 05:02:27 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 11
+    [serviceid] => 4
+)
+
+[22-Nov-2025 05:02:27 Europe/Berlin] Parsed appointmentid: 11, serviceid: 4
+[22-Nov-2025 05:02:27 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 05:12:24 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 11
+    [serviceid] => 1
+)
+
+[22-Nov-2025 05:12:24 Europe/Berlin] Parsed appointmentid: 11, serviceid: 1
+[22-Nov-2025 05:12:24 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 05:55:58 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[22-Nov-2025 05:55:58 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[22-Nov-2025 05:55:58 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 05:56:05 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[22-Nov-2025 05:56:05 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[22-Nov-2025 05:56:05 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 05:56:11 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[22-Nov-2025 05:56:11 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[22-Nov-2025 05:56:11 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 05:56:18 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[22-Nov-2025 05:56:18 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[22-Nov-2025 05:56:18 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 05:56:20 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[22-Nov-2025 05:56:20 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[22-Nov-2025 05:56:20 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 05:56:29 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[22-Nov-2025 05:56:29 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[22-Nov-2025 05:56:29 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 06:51:24 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[22-Nov-2025 06:51:24 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[22-Nov-2025 06:51:24 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 06:51:27 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[22-Nov-2025 06:51:27 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[22-Nov-2025 06:51:27 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 07:39:27 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[22-Nov-2025 07:39:27 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[22-Nov-2025 07:39:27 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 07:39:59 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 11
+    [serviceid] => 1
+)
+
+[22-Nov-2025 07:39:59 Europe/Berlin] Parsed appointmentid: 11, serviceid: 1
+[22-Nov-2025 07:39:59 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 07:40:15 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[22-Nov-2025 07:40:15 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[22-Nov-2025 07:40:15 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 07:40:19 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[22-Nov-2025 07:40:19 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[22-Nov-2025 07:40:19 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[22-Nov-2025 11:59:30 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[22-Nov-2025 11:59:30 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[22-Nov-2025 11:59:30 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 12:00:02 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 20
+    [serviceid] => 3
+)
+
+[22-Nov-2025 12:00:02 Europe/Berlin] Parsed appointmentid: 20, serviceid: 3
+[22-Nov-2025 12:00:02 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 12:03:35 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 20
+    [serviceid] => 3
+)
+
+[22-Nov-2025 12:03:35 Europe/Berlin] Parsed appointmentid: 20, serviceid: 3
+[22-Nov-2025 12:03:35 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 12:05:49 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 11
+    [serviceid] => 1
+)
+
+[22-Nov-2025 12:05:49 Europe/Berlin] Parsed appointmentid: 11, serviceid: 1
+[22-Nov-2025 12:05:49 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 12:06:00 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 11
+    [serviceid] => 4
+)
+
+[22-Nov-2025 12:06:00 Europe/Berlin] Parsed appointmentid: 11, serviceid: 4
+[22-Nov-2025 12:06:00 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 12:07:37 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[22-Nov-2025 12:07:37 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[22-Nov-2025 12:07:37 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[22-Nov-2025 12:07:51 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[22-Nov-2025 12:07:51 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[22-Nov-2025 12:07:51 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[22-Nov-2025 12:12:06 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[22-Nov-2025 12:12:06 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[22-Nov-2025 12:12:06 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[22-Nov-2025 12:15:13 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[22-Nov-2025 12:15:13 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[22-Nov-2025 12:15:13 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[22-Nov-2025 12:34:37 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 4
+)
+
+[22-Nov-2025 12:34:37 Europe/Berlin] Parsed appointmentid: 12, serviceid: 4
+[22-Nov-2025 12:34:37 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 12:34:40 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 4
+)
+
+[22-Nov-2025 12:34:40 Europe/Berlin] Parsed appointmentid: 12, serviceid: 4
+[22-Nov-2025 12:34:40 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 12:34:41 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 4
+)
+
+[22-Nov-2025 12:34:41 Europe/Berlin] Parsed appointmentid: 12, serviceid: 4
+[22-Nov-2025 12:34:41 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 12:34:42 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 4
+)
+
+[22-Nov-2025 12:34:42 Europe/Berlin] Parsed appointmentid: 12, serviceid: 4
+[22-Nov-2025 12:34:42 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 12:34:43 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 4
+)
+
+[22-Nov-2025 12:34:43 Europe/Berlin] Parsed appointmentid: 12, serviceid: 4
+[22-Nov-2025 12:34:43 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 12:34:44 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 4
+)
+
+[22-Nov-2025 12:34:44 Europe/Berlin] Parsed appointmentid: 12, serviceid: 4
+[22-Nov-2025 12:34:44 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[22-Nov-2025 12:34:46 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 11
+    [serviceid] => 3
+)
+
+[22-Nov-2025 12:34:46 Europe/Berlin] Parsed appointmentid: 11, serviceid: 3
+[22-Nov-2025 12:34:46 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[24-Nov-2025 07:03:46 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[24-Nov-2025 07:03:46 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[24-Nov-2025 07:03:46 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[24-Nov-2025 07:03:50 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[24-Nov-2025 07:03:50 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[24-Nov-2025 07:03:50 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[24-Nov-2025 07:03:54 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[24-Nov-2025 07:03:54 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[24-Nov-2025 07:03:54 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[24-Nov-2025 07:03:55 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[24-Nov-2025 07:03:55 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[24-Nov-2025 07:03:55 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[24-Nov-2025 07:03:56 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[24-Nov-2025 07:03:56 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[24-Nov-2025 07:03:56 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 02:21:30 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 02:21:30 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 02:21:30 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 02:21:37 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 5
+)
+
+[25-Nov-2025 02:21:37 Europe/Berlin] Parsed appointmentid: 13, serviceid: 5
+[25-Nov-2025 02:21:37 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 02:21:54 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 02:21:54 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 02:21:54 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 02:50:10 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 02:50:10 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 02:50:10 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 02:56:30 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 02:56:30 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 02:56:30 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 03:11:39 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 03:11:39 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 03:11:39 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 03:13:14 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 03:13:14 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 03:13:14 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 04:14:21 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 04:14:21 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 04:14:21 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 04:15:52 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 04:15:52 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 04:15:52 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 04:15:52 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 04:15:52 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 04:15:52 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 04:20:03 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 04:20:03 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 04:20:03 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 04:21:17 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 04:21:17 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 04:21:17 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 04:24:31 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 04:24:31 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 04:24:31 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 04:26:03 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 04:26:03 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 04:26:03 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 04:35:05 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 04:35:05 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 04:35:05 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 04:55:22 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 04:55:22 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 04:55:22 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 05:03:02 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 05:03:02 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 05:03:02 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 05:10:07 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 05:10:07 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 05:10:07 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 05:10:18 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 05:10:18 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 05:10:18 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 05:10:42 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 05:10:42 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 05:10:42 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 05:12:14 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 05:12:14 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 05:12:14 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 05:13:41 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 05:13:41 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 05:13:41 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 05:14:30 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 05:14:30 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 05:14:30 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 05:15:54 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 05:15:54 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 05:15:54 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 05:17:15 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 05:17:15 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 05:17:15 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 06:42:46 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 06:42:46 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 06:42:46 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:46 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 06:42:46 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 06:42:46 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:47 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 06:42:47 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 06:42:47 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:47 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 06:42:47 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 06:42:47 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:48 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 06:42:48 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 06:42:48 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:48 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 06:42:48 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 06:42:48 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:49 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 06:42:49 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 06:42:49 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:49 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 06:42:49 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 06:42:49 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:49 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 06:42:49 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 06:42:49 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:49 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 06:42:49 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 06:42:49 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:49 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 06:42:49 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 06:42:49 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:50 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 06:42:50 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 06:42:50 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:50 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 06:42:50 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 06:42:50 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:50 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 06:42:50 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 06:42:50 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:50 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 06:42:50 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 06:42:50 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:51 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[25-Nov-2025 06:42:51 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[25-Nov-2025 06:42:51 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:51 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 4
+)
+
+[25-Nov-2025 06:42:51 Europe/Berlin] Parsed appointmentid: 10, serviceid: 4
+[25-Nov-2025 06:42:51 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 06:42:51 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[25-Nov-2025 06:42:51 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[25-Nov-2025 06:42:51 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 06:42:54 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[25-Nov-2025 06:42:54 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[25-Nov-2025 06:42:54 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 06:43:02 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 1
+)
+
+[25-Nov-2025 06:43:02 Europe/Berlin] Parsed appointmentid: 13, serviceid: 1
+[25-Nov-2025 06:43:02 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 06:43:05 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 1
+)
+
+[25-Nov-2025 06:43:05 Europe/Berlin] Parsed appointmentid: 13, serviceid: 1
+[25-Nov-2025 06:43:05 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 06:43:09 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 5
+)
+
+[25-Nov-2025 06:43:09 Europe/Berlin] Parsed appointmentid: 13, serviceid: 5
+[25-Nov-2025 06:43:09 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 06:43:10 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 5
+)
+
+[25-Nov-2025 06:43:10 Europe/Berlin] Parsed appointmentid: 12, serviceid: 5
+[25-Nov-2025 06:43:10 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 06:43:10 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 5
+)
+
+[25-Nov-2025 06:43:10 Europe/Berlin] Parsed appointmentid: 12, serviceid: 5
+[25-Nov-2025 06:43:10 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 06:43:12 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 14
+    [serviceid] => 1
+)
+
+[25-Nov-2025 06:43:12 Europe/Berlin] Parsed appointmentid: 14, serviceid: 1
+[25-Nov-2025 06:43:12 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 06:43:13 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 06:43:13 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 06:43:13 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 06:43:15 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 5
+)
+
+[25-Nov-2025 06:43:15 Europe/Berlin] Parsed appointmentid: 13, serviceid: 5
+[25-Nov-2025 06:43:15 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 06:43:16 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 1
+)
+
+[25-Nov-2025 06:43:16 Europe/Berlin] Parsed appointmentid: 13, serviceid: 1
+[25-Nov-2025 06:43:16 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 06:43:18 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 19
+    [serviceid] => 4
+)
+
+[25-Nov-2025 06:43:18 Europe/Berlin] Parsed appointmentid: 19, serviceid: 4
+[25-Nov-2025 06:43:18 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 06:43:22 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 06:43:22 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 06:43:22 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 06:43:23 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 1
+)
+
+[25-Nov-2025 06:43:23 Europe/Berlin] Parsed appointmentid: 13, serviceid: 1
+[25-Nov-2025 06:43:23 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 06:43:37 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 06:43:37 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 06:43:37 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 06:43:37 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 06:43:37 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 06:43:37 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 06:44:05 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 06:44:05 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 06:44:05 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 06:44:21 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 22
+    [serviceid] => 3
+)
+
+[25-Nov-2025 06:44:21 Europe/Berlin] Parsed appointmentid: 22, serviceid: 3
+[25-Nov-2025 06:44:21 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 06:47:37 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 06:47:37 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 06:47:37 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 06:47:49 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 06:47:49 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 06:47:49 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 06:47:55 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 5
+)
+
+[25-Nov-2025 06:47:55 Europe/Berlin] Parsed appointmentid: 12, serviceid: 5
+[25-Nov-2025 06:47:55 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 06:47:55 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 5
+)
+
+[25-Nov-2025 06:47:55 Europe/Berlin] Parsed appointmentid: 12, serviceid: 5
+[25-Nov-2025 06:47:55 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 06:48:23 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 06:48:23 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 06:48:23 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 06:50:14 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 06:50:14 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 06:50:14 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 07:05:32 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 07:05:32 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 07:05:32 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 07:05:42 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 5
+)
+
+[25-Nov-2025 07:05:42 Europe/Berlin] Parsed appointmentid: 12, serviceid: 5
+[25-Nov-2025 07:05:42 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 07:05:46 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 07:05:46 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 07:05:46 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 07:05:53 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 07:05:53 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 07:05:53 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 07:06:14 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 07:06:14 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 07:06:14 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 07:06:14 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 07:06:14 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 07:06:14 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 07:06:29 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 07:06:29 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 07:06:29 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 07:06:36 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 07:06:36 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 07:06:36 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 07:09:33 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 07:09:33 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 07:09:33 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 07:09:57 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 07:09:57 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 07:09:57 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 07:10:02 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 5
+)
+
+[25-Nov-2025 07:10:02 Europe/Berlin] Parsed appointmentid: 12, serviceid: 5
+[25-Nov-2025 07:10:02 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 07:10:02 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 5
+)
+
+[25-Nov-2025 07:10:02 Europe/Berlin] Parsed appointmentid: 12, serviceid: 5
+[25-Nov-2025 07:10:02 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 07:10:06 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 5
+)
+
+[25-Nov-2025 07:10:06 Europe/Berlin] Parsed appointmentid: 12, serviceid: 5
+[25-Nov-2025 07:10:06 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 07:10:08 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 1
+)
+
+[25-Nov-2025 07:10:08 Europe/Berlin] Parsed appointmentid: 13, serviceid: 1
+[25-Nov-2025 07:10:08 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 07:10:11 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 5
+)
+
+[25-Nov-2025 07:10:11 Europe/Berlin] Parsed appointmentid: 12, serviceid: 5
+[25-Nov-2025 07:10:11 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 07:10:14 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 12
+    [serviceid] => 1
+)
+
+[25-Nov-2025 07:10:14 Europe/Berlin] Parsed appointmentid: 12, serviceid: 1
+[25-Nov-2025 07:10:14 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 07:10:17 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 5
+)
+
+[25-Nov-2025 07:10:17 Europe/Berlin] Parsed appointmentid: 13, serviceid: 5
+[25-Nov-2025 07:10:17 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 07:10:23 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 07:10:23 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 07:10:23 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 07:18:37 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 14
+    [serviceid] => 1
+)
+
+[25-Nov-2025 07:18:37 Europe/Berlin] Parsed appointmentid: 14, serviceid: 1
+[25-Nov-2025 07:18:37 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[25-Nov-2025 07:18:41 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 16
+    [serviceid] => 3
+)
+
+[25-Nov-2025 07:18:41 Europe/Berlin] Parsed appointmentid: 16, serviceid: 3
+[25-Nov-2025 07:18:41 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 07:18:43 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 07:18:43 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 07:18:43 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 07:18:43 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 07:18:43 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 07:18:43 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 11:07:33 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 26
+    [serviceid] => 4
+)
+
+[25-Nov-2025 11:07:33 Europe/Berlin] Parsed appointmentid: 26, serviceid: 4
+[25-Nov-2025 11:07:33 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[25-Nov-2025 12:05:12 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 12:05:12 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 12:05:12 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 12:05:12 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 12:05:12 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 12:05:12 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 12:15:13 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 2
+)
+
+[25-Nov-2025 12:15:13 Europe/Berlin] Parsed appointmentid: 10, serviceid: 2
+[25-Nov-2025 12:15:13 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[25-Nov-2025 12:15:15 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[25-Nov-2025 12:15:15 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[25-Nov-2025 12:15:15 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[25-Nov-2025 12:17:25 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[25-Nov-2025 12:17:25 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[25-Nov-2025 12:17:25 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 01:22:47 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 21
+    [serviceid] => 3
+)
+
+[26-Nov-2025 01:22:47 Europe/Berlin] Parsed appointmentid: 21, serviceid: 3
+[26-Nov-2025 01:22:47 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[26-Nov-2025 02:09:53 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[26-Nov-2025 02:09:53 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[26-Nov-2025 02:09:53 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 02:09:57 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[26-Nov-2025 02:09:57 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[26-Nov-2025 02:09:57 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 02:10:12 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[26-Nov-2025 02:10:12 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[26-Nov-2025 02:10:12 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 03:52:01 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 27
+    [serviceid] => 3
+)
+
+[26-Nov-2025 03:52:01 Europe/Berlin] Parsed appointmentid: 27, serviceid: 3
+[26-Nov-2025 03:52:01 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[26-Nov-2025 04:00:07 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 27
+    [serviceid] => 3
+)
+
+[26-Nov-2025 04:00:07 Europe/Berlin] Parsed appointmentid: 27, serviceid: 3
+[26-Nov-2025 04:00:07 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[26-Nov-2025 04:43:18 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 27
+    [serviceid] => 3
+)
+
+[26-Nov-2025 04:43:18 Europe/Berlin] Parsed appointmentid: 27, serviceid: 3
+[26-Nov-2025 04:43:18 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[26-Nov-2025 04:43:22 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 27
+    [serviceid] => 3
+)
+
+[26-Nov-2025 04:43:22 Europe/Berlin] Parsed appointmentid: 27, serviceid: 3
+[26-Nov-2025 04:43:22 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[26-Nov-2025 04:44:08 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 27
+    [serviceid] => 4
+)
+
+[26-Nov-2025 04:44:08 Europe/Berlin] Parsed appointmentid: 27, serviceid: 4
+[26-Nov-2025 04:44:08 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[26-Nov-2025 04:58:40 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 27
+    [serviceid] => 1
+)
+
+[26-Nov-2025 04:58:40 Europe/Berlin] Parsed appointmentid: 27, serviceid: 1
+[26-Nov-2025 04:58:40 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[26-Nov-2025 04:58:40 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 27
+    [serviceid] => 1
+)
+
+[26-Nov-2025 04:58:40 Europe/Berlin] Parsed appointmentid: 27, serviceid: 1
+[26-Nov-2025 04:58:40 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[26-Nov-2025 05:21:25 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[26-Nov-2025 05:21:25 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[26-Nov-2025 05:21:25 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 05:21:30 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[26-Nov-2025 05:21:30 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[26-Nov-2025 05:21:30 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[26-Nov-2025 05:21:41 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 4
+)
+
+[26-Nov-2025 05:21:41 Europe/Berlin] Parsed appointmentid: 13, serviceid: 4
+[26-Nov-2025 05:21:41 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[26-Nov-2025 06:08:07 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[26-Nov-2025 06:08:07 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[26-Nov-2025 06:08:07 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 06:29:08 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[26-Nov-2025 06:29:08 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[26-Nov-2025 06:29:08 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 06:40:23 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[26-Nov-2025 06:40:23 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[26-Nov-2025 06:40:23 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 06:40:35 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 4
+)
+
+[26-Nov-2025 06:40:35 Europe/Berlin] Parsed appointmentid: 32, serviceid: 4
+[26-Nov-2025 06:40:35 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[26-Nov-2025 06:40:38 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[26-Nov-2025 06:40:38 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[26-Nov-2025 06:40:38 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 06:40:47 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[26-Nov-2025 06:40:47 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[26-Nov-2025 06:40:47 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 06:41:42 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[26-Nov-2025 06:41:42 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[26-Nov-2025 06:41:42 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 06:47:44 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[26-Nov-2025 06:47:44 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[26-Nov-2025 06:47:44 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 06:47:58 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[26-Nov-2025 06:47:58 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[26-Nov-2025 06:47:58 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 06:48:13 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 2
+)
+
+[26-Nov-2025 06:48:13 Europe/Berlin] Parsed appointmentid: 2, serviceid: 2
+[26-Nov-2025 06:48:13 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 06:48:23 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 33
+    [serviceid] => 4
+)
+
+[26-Nov-2025 06:48:23 Europe/Berlin] Parsed appointmentid: 33, serviceid: 4
+[26-Nov-2025 06:48:23 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[26-Nov-2025 06:48:25 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 2
+)
+
+[26-Nov-2025 06:48:25 Europe/Berlin] Parsed appointmentid: 2, serviceid: 2
+[26-Nov-2025 06:48:25 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 06:48:29 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[26-Nov-2025 06:48:29 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[26-Nov-2025 06:48:29 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 06:48:32 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 2
+)
+
+[26-Nov-2025 06:48:32 Europe/Berlin] Parsed appointmentid: 2, serviceid: 2
+[26-Nov-2025 06:48:32 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 06:48:34 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 33
+    [serviceid] => 1
+)
+
+[26-Nov-2025 06:48:34 Europe/Berlin] Parsed appointmentid: 33, serviceid: 1
+[26-Nov-2025 06:48:34 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[26-Nov-2025 06:48:37 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[26-Nov-2025 06:48:37 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[26-Nov-2025 06:48:37 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 06:50:27 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[26-Nov-2025 06:50:27 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[26-Nov-2025 06:50:27 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 06:50:31 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[26-Nov-2025 06:50:31 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[26-Nov-2025 06:50:31 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[26-Nov-2025 06:50:39 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[26-Nov-2025 06:50:39 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[26-Nov-2025 06:50:39 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 00:27:40 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 38
+    [serviceid] => 3
+)
+
+[27-Nov-2025 00:27:40 Europe/Berlin] Parsed appointmentid: 38, serviceid: 3
+[27-Nov-2025 00:27:40 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[27-Nov-2025 00:27:45 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 38
+    [serviceid] => 3
+)
+
+[27-Nov-2025 00:27:45 Europe/Berlin] Parsed appointmentid: 38, serviceid: 3
+[27-Nov-2025 00:27:45 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[27-Nov-2025 00:27:46 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 38
+    [serviceid] => 3
+)
+
+[27-Nov-2025 00:27:46 Europe/Berlin] Parsed appointmentid: 38, serviceid: 3
+[27-Nov-2025 00:27:46 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[27-Nov-2025 00:27:50 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 5
+)
+
+[27-Nov-2025 00:27:50 Europe/Berlin] Parsed appointmentid: 13, serviceid: 5
+[27-Nov-2025 00:27:50 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[27-Nov-2025 00:27:53 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 00:27:53 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 00:27:53 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 00:27:53 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 00:27:53 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 00:27:53 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 00:34:31 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 00:34:31 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 00:34:31 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 00:40:13 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 00:40:13 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 00:40:13 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 00:40:27 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 00:40:27 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 00:40:27 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 00:40:27 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 00:40:27 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 00:40:27 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 00:40:33 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 5
+)
+
+[27-Nov-2025 00:40:33 Europe/Berlin] Parsed appointmentid: 13, serviceid: 5
+[27-Nov-2025 00:40:33 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[27-Nov-2025 00:40:39 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 00:40:39 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 00:40:39 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 00:40:44 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 5
+)
+
+[27-Nov-2025 00:40:44 Europe/Berlin] Parsed appointmentid: 13, serviceid: 5
+[27-Nov-2025 00:40:44 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[27-Nov-2025 00:40:44 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 5
+)
+
+[27-Nov-2025 00:40:44 Europe/Berlin] Parsed appointmentid: 13, serviceid: 5
+[27-Nov-2025 00:40:44 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[27-Nov-2025 00:44:05 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 38
+    [serviceid] => 3
+)
+
+[27-Nov-2025 00:44:05 Europe/Berlin] Parsed appointmentid: 38, serviceid: 3
+[27-Nov-2025 00:44:05 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[27-Nov-2025 00:44:10 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 5
+)
+
+[27-Nov-2025 00:44:10 Europe/Berlin] Parsed appointmentid: 13, serviceid: 5
+[27-Nov-2025 00:44:10 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[27-Nov-2025 00:44:13 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 00:44:13 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 00:44:13 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 00:44:25 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 00:44:25 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 00:44:25 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 00:44:29 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 31
+    [serviceid] => 4
+)
+
+[27-Nov-2025 00:44:29 Europe/Berlin] Parsed appointmentid: 31, serviceid: 4
+[27-Nov-2025 00:44:29 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 00:44:29 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 31
+    [serviceid] => 4
+)
+
+[27-Nov-2025 00:44:29 Europe/Berlin] Parsed appointmentid: 31, serviceid: 4
+[27-Nov-2025 00:44:29 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 00:44:31 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 1
+)
+
+[27-Nov-2025 00:44:31 Europe/Berlin] Parsed appointmentid: 10, serviceid: 1
+[27-Nov-2025 00:44:31 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 00:44:33 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[27-Nov-2025 00:44:33 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[27-Nov-2025 00:44:33 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:00:15 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:00:15 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 01:00:15 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:00:17 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:00:17 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:00:17 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:00:18 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:00:18 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:00:18 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:00:20 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:00:20 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:00:20 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:00:20 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:00:20 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:00:20 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:00:20 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:00:20 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:00:20 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:00:20 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:00:20 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:00:20 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:00:20 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:00:20 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:00:20 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:00:20 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:00:20 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:00:20 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:00:21 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:00:21 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:00:21 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:00:22 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:00:22 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:00:22 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:00:22 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:00:22 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:00:22 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:00:29 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 14
+    [serviceid] => 5
+)
+
+[27-Nov-2025 01:00:29 Europe/Berlin] Parsed appointmentid: 14, serviceid: 5
+[27-Nov-2025 01:00:29 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:00:50 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:00:50 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:00:50 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:00:50 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:00:50 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:00:50 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:00:50 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 14
+    [serviceid] => 5
+)
+
+[27-Nov-2025 01:00:50 Europe/Berlin] Parsed appointmentid: 14, serviceid: 5
+[27-Nov-2025 01:00:50 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:00:51 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 14
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:00:51 Europe/Berlin] Parsed appointmentid: 14, serviceid: 4
+[27-Nov-2025 01:00:51 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:00:52 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 15
+    [serviceid] => 5
+)
+
+[27-Nov-2025 01:00:52 Europe/Berlin] Parsed appointmentid: 15, serviceid: 5
+[27-Nov-2025 01:00:52 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:02:57 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:02:57 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 01:02:57 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:03:04 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:03:04 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:03:04 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:03:06 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:03:06 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:03:06 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:15:58 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:15:58 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:15:58 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:16:00 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 32
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:16:00 Europe/Berlin] Parsed appointmentid: 32, serviceid: 1
+[27-Nov-2025 01:16:00 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:16:03 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:16:03 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 01:16:03 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:19:34 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:19:34 Europe/Berlin] Parsed appointmentid: 40, serviceid: 4
+[27-Nov-2025 01:19:34 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[27-Nov-2025 01:19:42 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:19:42 Europe/Berlin] Parsed appointmentid: 40, serviceid: 4
+[27-Nov-2025 01:19:42 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[27-Nov-2025 01:19:58 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 3
+)
+
+[27-Nov-2025 01:19:58 Europe/Berlin] Parsed appointmentid: 40, serviceid: 3
+[27-Nov-2025 01:19:58 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[27-Nov-2025 01:20:03 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 5
+)
+
+[27-Nov-2025 01:20:03 Europe/Berlin] Parsed appointmentid: 13, serviceid: 5
+[27-Nov-2025 01:20:03 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[27-Nov-2025 01:20:08 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 5
+)
+
+[27-Nov-2025 01:20:08 Europe/Berlin] Parsed appointmentid: 13, serviceid: 5
+[27-Nov-2025 01:20:08 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[27-Nov-2025 01:20:51 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:20:51 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 01:20:51 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:20:54 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 41
+    [serviceid] => 5
+)
+
+[27-Nov-2025 01:20:54 Europe/Berlin] Parsed appointmentid: 41, serviceid: 5
+[27-Nov-2025 01:20:54 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[27-Nov-2025 01:20:57 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 29
+    [serviceid] => 3
+)
+
+[27-Nov-2025 01:20:57 Europe/Berlin] Parsed appointmentid: 29, serviceid: 3
+[27-Nov-2025 01:20:57 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:21:13 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 29
+    [serviceid] => 3
+)
+
+[27-Nov-2025 01:21:13 Europe/Berlin] Parsed appointmentid: 29, serviceid: 3
+[27-Nov-2025 01:21:13 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:30:11 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:30:11 Europe/Berlin] Parsed appointmentid: 40, serviceid: 4
+[27-Nov-2025 01:30:11 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:30:12 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:30:12 Europe/Berlin] Parsed appointmentid: 40, serviceid: 4
+[27-Nov-2025 01:30:12 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:30:13 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:30:13 Europe/Berlin] Parsed appointmentid: 40, serviceid: 4
+[27-Nov-2025 01:30:13 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:30:14 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:30:14 Europe/Berlin] Parsed appointmentid: 40, serviceid: 4
+[27-Nov-2025 01:30:14 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:30:14 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:30:14 Europe/Berlin] Parsed appointmentid: 40, serviceid: 4
+[27-Nov-2025 01:30:14 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:30:14 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 41
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:30:14 Europe/Berlin] Parsed appointmentid: 41, serviceid: 4
+[27-Nov-2025 01:30:14 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[27-Nov-2025 01:30:16 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:30:16 Europe/Berlin] Parsed appointmentid: 40, serviceid: 4
+[27-Nov-2025 01:30:16 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:30:16 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:30:16 Europe/Berlin] Parsed appointmentid: 40, serviceid: 4
+[27-Nov-2025 01:30:16 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:30:17 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:30:17 Europe/Berlin] Parsed appointmentid: 40, serviceid: 4
+[27-Nov-2025 01:30:17 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:30:17 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:30:17 Europe/Berlin] Parsed appointmentid: 40, serviceid: 4
+[27-Nov-2025 01:30:17 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:30:17 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:30:17 Europe/Berlin] Parsed appointmentid: 40, serviceid: 4
+[27-Nov-2025 01:30:17 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:32:32 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:32:32 Europe/Berlin] Parsed appointmentid: 40, serviceid: 4
+[27-Nov-2025 01:32:32 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:35:59 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:35:59 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 01:35:59 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:36:03 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:36:03 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 01:36:03 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:36:05 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:36:05 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 01:36:05 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:36:10 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:36:10 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 01:36:10 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:36:19 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:36:19 Europe/Berlin] Parsed appointmentid: 40, serviceid: 4
+[27-Nov-2025 01:36:19 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:36:23 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:36:23 Europe/Berlin] Parsed appointmentid: 40, serviceid: 4
+[27-Nov-2025 01:36:23 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 01:36:24 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:36:24 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 01:36:24 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:38:04 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 3
+)
+
+[27-Nov-2025 01:38:04 Europe/Berlin] Parsed appointmentid: 40, serviceid: 3
+[27-Nov-2025 01:38:04 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[27-Nov-2025 01:38:19 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 13
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:38:19 Europe/Berlin] Parsed appointmentid: 13, serviceid: 1
+[27-Nov-2025 01:38:19 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[27-Nov-2025 01:39:11 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 14
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:39:11 Europe/Berlin] Parsed appointmentid: 14, serviceid: 1
+[27-Nov-2025 01:39:11 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[27-Nov-2025 01:39:16 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 1
+)
+
+[27-Nov-2025 01:39:16 Europe/Berlin] Parsed appointmentid: 6, serviceid: 1
+[27-Nov-2025 01:39:16 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:39:22 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 41
+    [serviceid] => 2
+)
+
+[27-Nov-2025 01:39:22 Europe/Berlin] Parsed appointmentid: 41, serviceid: 2
+[27-Nov-2025 01:39:22 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[27-Nov-2025 01:39:26 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 2
+)
+
+[27-Nov-2025 01:39:26 Europe/Berlin] Parsed appointmentid: 2, serviceid: 2
+[27-Nov-2025 01:39:26 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:39:35 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 29
+    [serviceid] => 3
+)
+
+[27-Nov-2025 01:39:35 Europe/Berlin] Parsed appointmentid: 29, serviceid: 3
+[27-Nov-2025 01:39:35 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:39:38 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 31
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:39:38 Europe/Berlin] Parsed appointmentid: 31, serviceid: 4
+[27-Nov-2025 01:39:38 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:39:40 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 29
+    [serviceid] => 3
+)
+
+[27-Nov-2025 01:39:40 Europe/Berlin] Parsed appointmentid: 29, serviceid: 3
+[27-Nov-2025 01:39:40 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:39:42 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 2
+)
+
+[27-Nov-2025 01:39:42 Europe/Berlin] Parsed appointmentid: 2, serviceid: 2
+[27-Nov-2025 01:39:42 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[27-Nov-2025 01:40:01 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 40
+    [serviceid] => 4
+)
+
+[27-Nov-2025 01:40:01 Europe/Berlin] Parsed appointmentid: 40, serviceid: 4
+[27-Nov-2025 01:40:01 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[27-Nov-2025 10:03:04 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 41
+    [serviceid] => 5
+)
+
+[27-Nov-2025 10:03:04 Europe/Berlin] Parsed appointmentid: 41, serviceid: 5
+[27-Nov-2025 10:03:04 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[28-Nov-2025 14:51:36 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 3
+)
+
+[28-Nov-2025 14:51:36 Europe/Berlin] Parsed appointmentid: 1, serviceid: 3
+[28-Nov-2025 14:51:36 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[28-Nov-2025 18:29:19 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 3
+)
+
+[28-Nov-2025 18:29:19 Europe/Berlin] Parsed appointmentid: 1, serviceid: 3
+[28-Nov-2025 18:29:19 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[28-Nov-2025 18:29:21 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 4
+)
+
+[28-Nov-2025 18:29:21 Europe/Berlin] Parsed appointmentid: 1, serviceid: 4
+[28-Nov-2025 18:29:21 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[28-Nov-2025 18:30:11 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 3
+)
+
+[28-Nov-2025 18:30:11 Europe/Berlin] Parsed appointmentid: 1, serviceid: 3
+[28-Nov-2025 18:30:11 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[28-Nov-2025 18:30:23 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 4
+)
+
+[28-Nov-2025 18:30:23 Europe/Berlin] Parsed appointmentid: 1, serviceid: 4
+[28-Nov-2025 18:30:23 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[29-Nov-2025 02:44:57 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 3
+)
+
+[29-Nov-2025 02:44:57 Europe/Berlin] Parsed appointmentid: 1, serviceid: 3
+[29-Nov-2025 02:44:57 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[29-Nov-2025 07:58:58 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 3
+    [serviceid] => 3
+)
+
+[29-Nov-2025 07:58:58 Europe/Berlin] Parsed appointmentid: 3, serviceid: 3
+[29-Nov-2025 07:58:58 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[30-Nov-2025 08:48:21 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 3
+)
+
+[30-Nov-2025 08:48:21 Europe/Berlin] Parsed appointmentid: 1, serviceid: 3
+[30-Nov-2025 08:48:21 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[30-Nov-2025 08:52:18 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 4
+)
+
+[30-Nov-2025 08:52:18 Europe/Berlin] Parsed appointmentid: 1, serviceid: 4
+[30-Nov-2025 08:52:18 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[30-Nov-2025 09:00:53 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 1
+)
+
+[30-Nov-2025 09:00:53 Europe/Berlin] Parsed appointmentid: 2, serviceid: 1
+[30-Nov-2025 09:00:53 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[30-Nov-2025 12:34:03 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 4
+)
+
+[30-Nov-2025 12:34:03 Europe/Berlin] Parsed appointmentid: 6, serviceid: 4
+[30-Nov-2025 12:34:03 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[30-Nov-2025 12:34:06 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 6
+    [serviceid] => 4
+)
+
+[30-Nov-2025 12:34:06 Europe/Berlin] Parsed appointmentid: 6, serviceid: 4
+[30-Nov-2025 12:34:06 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[30-Nov-2025 12:34:31 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[30-Nov-2025 12:34:31 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[30-Nov-2025 12:34:31 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[30-Nov-2025 12:35:05 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 5
+)
+
+[30-Nov-2025 12:35:05 Europe/Berlin] Parsed appointmentid: 2, serviceid: 5
+[30-Nov-2025 12:35:05 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[30-Nov-2025 12:44:46 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 5
+    [serviceid] => 1
+)
+
+[30-Nov-2025 12:44:46 Europe/Berlin] Parsed appointmentid: 5, serviceid: 1
+[30-Nov-2025 12:44:46 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[30-Nov-2025 13:39:23 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 7
+    [serviceid] => 5
+)
+
+[30-Nov-2025 13:39:23 Europe/Berlin] Parsed appointmentid: 7, serviceid: 5
+[30-Nov-2025 13:39:23 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[30-Nov-2025 13:39:24 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 7
+    [serviceid] => 1
+)
+
+[30-Nov-2025 13:39:24 Europe/Berlin] Parsed appointmentid: 7, serviceid: 1
+[30-Nov-2025 13:39:24 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[30-Nov-2025 13:45:59 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 4
+)
+
+[30-Nov-2025 13:45:59 Europe/Berlin] Parsed appointmentid: 1, serviceid: 4
+[30-Nov-2025 13:45:59 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[30-Nov-2025 13:46:02 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 2
+)
+
+[30-Nov-2025 13:46:02 Europe/Berlin] Parsed appointmentid: 1, serviceid: 2
+[30-Nov-2025 13:46:02 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[30-Nov-2025 13:47:30 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 2
+)
+
+[30-Nov-2025 13:47:30 Europe/Berlin] Parsed appointmentid: 1, serviceid: 2
+[30-Nov-2025 13:47:30 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[30-Nov-2025 13:47:33 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 4
+    [serviceid] => 4
+)
+
+[30-Nov-2025 13:47:33 Europe/Berlin] Parsed appointmentid: 4, serviceid: 4
+[30-Nov-2025 13:47:33 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[30-Nov-2025 13:47:35 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 3
+)
+
+[30-Nov-2025 13:47:35 Europe/Berlin] Parsed appointmentid: 2, serviceid: 3
+[30-Nov-2025 13:47:35 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[30-Nov-2025 13:51:04 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 2
+)
+
+[30-Nov-2025 13:51:04 Europe/Berlin] Parsed appointmentid: 1, serviceid: 2
+[30-Nov-2025 13:51:04 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[30-Nov-2025 13:51:09 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 3
+)
+
+[30-Nov-2025 13:51:09 Europe/Berlin] Parsed appointmentid: 2, serviceid: 3
+[30-Nov-2025 13:51:09 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[30-Nov-2025 13:51:13 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 1
+)
+
+[30-Nov-2025 13:51:13 Europe/Berlin] Parsed appointmentid: 2, serviceid: 1
+[30-Nov-2025 13:51:13 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[30-Nov-2025 13:53:54 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 7
+    [serviceid] => 3
+)
+
+[30-Nov-2025 13:53:54 Europe/Berlin] Parsed appointmentid: 7, serviceid: 3
+[30-Nov-2025 13:53:54 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[30-Nov-2025 13:54:01 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 7
+    [serviceid] => 3
+)
+
+[30-Nov-2025 13:54:01 Europe/Berlin] Parsed appointmentid: 7, serviceid: 3
+[30-Nov-2025 13:54:01 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[30-Nov-2025 13:55:37 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 2
+)
+
+[30-Nov-2025 13:55:37 Europe/Berlin] Parsed appointmentid: 1, serviceid: 2
+[30-Nov-2025 13:55:37 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[30-Nov-2025 13:55:40 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 4
+    [serviceid] => 1
+)
+
+[30-Nov-2025 13:55:40 Europe/Berlin] Parsed appointmentid: 4, serviceid: 1
+[30-Nov-2025 13:55:41 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[30-Nov-2025 13:55:43 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 5
+)
+
+[30-Nov-2025 13:55:43 Europe/Berlin] Parsed appointmentid: 1, serviceid: 5
+[30-Nov-2025 13:55:43 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[01-Dec-2025 00:39:44 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 3
+)
+
+[01-Dec-2025 00:39:44 Europe/Berlin] Parsed appointmentid: 1, serviceid: 3
+[01-Dec-2025 00:39:44 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[01-Dec-2025 00:42:39 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[01-Dec-2025 00:42:39 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[01-Dec-2025 00:42:39 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[01-Dec-2025 00:44:28 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[01-Dec-2025 00:44:28 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[01-Dec-2025 00:44:28 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[01-Dec-2025 00:46:33 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 4
+)
+
+[01-Dec-2025 00:46:33 Europe/Berlin] Parsed appointmentid: 1, serviceid: 4
+[01-Dec-2025 00:46:33 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[01-Dec-2025 00:46:43 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 4
+)
+
+[01-Dec-2025 00:46:43 Europe/Berlin] Parsed appointmentid: 1, serviceid: 4
+[01-Dec-2025 00:46:43 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[01-Dec-2025 01:33:58 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 3
+)
+
+[01-Dec-2025 01:33:58 Europe/Berlin] Parsed appointmentid: 2, serviceid: 3
+[01-Dec-2025 01:33:58 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[01-Dec-2025 01:34:01 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 1
+)
+
+[01-Dec-2025 01:34:01 Europe/Berlin] Parsed appointmentid: 2, serviceid: 1
+[01-Dec-2025 01:34:01 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[01-Dec-2025 01:34:02 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 1
+)
+
+[01-Dec-2025 01:34:02 Europe/Berlin] Parsed appointmentid: 1, serviceid: 1
+[01-Dec-2025 01:34:02 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[01-Dec-2025 01:34:07 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 4
+)
+
+[01-Dec-2025 01:34:07 Europe/Berlin] Parsed appointmentid: 2, serviceid: 4
+[01-Dec-2025 01:34:07 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[01-Dec-2025 01:34:10 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 3
+)
+
+[01-Dec-2025 01:34:10 Europe/Berlin] Parsed appointmentid: 2, serviceid: 3
+[01-Dec-2025 01:34:10 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[01-Dec-2025 01:39:47 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 1
+)
+
+[01-Dec-2025 01:39:47 Europe/Berlin] Parsed appointmentid: 2, serviceid: 1
+[01-Dec-2025 01:39:47 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[01-Dec-2025 01:39:49 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 3
+)
+
+[01-Dec-2025 01:39:49 Europe/Berlin] Parsed appointmentid: 2, serviceid: 3
+[01-Dec-2025 01:39:49 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[01-Dec-2025 01:40:57 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 4
+)
+
+[01-Dec-2025 01:40:57 Europe/Berlin] Parsed appointmentid: 2, serviceid: 4
+[01-Dec-2025 01:40:57 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[01-Dec-2025 01:41:00 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 3
+)
+
+[01-Dec-2025 01:41:00 Europe/Berlin] Parsed appointmentid: 2, serviceid: 3
+[01-Dec-2025 01:41:00 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[01-Dec-2025 01:41:02 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 4
+    [serviceid] => 3
+)
+
+[01-Dec-2025 01:41:02 Europe/Berlin] Parsed appointmentid: 4, serviceid: 3
+[01-Dec-2025 01:41:02 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[01-Dec-2025 16:47:04 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 3
+)
+
+[01-Dec-2025 16:47:04 Europe/Berlin] Parsed appointmentid: 1, serviceid: 3
+[01-Dec-2025 16:47:04 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[01-Dec-2025 17:43:15 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 4
+    [serviceid] => 3
+)
+
+[01-Dec-2025 17:43:15 Europe/Berlin] Parsed appointmentid: 4, serviceid: 3
+[01-Dec-2025 17:43:15 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[01-Dec-2025 17:43:19 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 3
+    [serviceid] => 5
+)
+
+[01-Dec-2025 17:43:19 Europe/Berlin] Parsed appointmentid: 3, serviceid: 5
+[01-Dec-2025 17:43:19 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[01-Dec-2025 18:03:21 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 4
+    [serviceid] => 3
+)
+
+[01-Dec-2025 18:03:21 Europe/Berlin] Parsed appointmentid: 4, serviceid: 3
+[01-Dec-2025 18:03:21 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[01-Dec-2025 18:03:23 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 3
+    [serviceid] => 5
+)
+
+[01-Dec-2025 18:03:23 Europe/Berlin] Parsed appointmentid: 3, serviceid: 5
+[01-Dec-2025 18:03:23 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[01-Dec-2025 22:17:43 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 3
+)
+
+[01-Dec-2025 22:17:43 Europe/Berlin] Parsed appointmentid: 1, serviceid: 3
+[01-Dec-2025 22:17:43 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[01-Dec-2025 22:18:00 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 3
+)
+
+[01-Dec-2025 22:18:00 Europe/Berlin] Parsed appointmentid: 2, serviceid: 3
+[01-Dec-2025 22:18:00 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[01-Dec-2025 22:18:02 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 3
+)
+
+[01-Dec-2025 22:18:02 Europe/Berlin] Parsed appointmentid: 1, serviceid: 3
+[01-Dec-2025 22:18:02 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[01-Dec-2025 22:18:32 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 2
+    [serviceid] => 3
+)
+
+[01-Dec-2025 22:18:32 Europe/Berlin] Parsed appointmentid: 2, serviceid: 3
+[01-Dec-2025 22:18:32 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[01-Dec-2025 22:18:34 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 3
+)
+
+[01-Dec-2025 22:18:34 Europe/Berlin] Parsed appointmentid: 1, serviceid: 3
+[01-Dec-2025 22:18:34 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[02-Dec-2025 06:45:29 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 3
+)
+
+[02-Dec-2025 06:45:29 Europe/Berlin] Parsed appointmentid: 1, serviceid: 3
+[02-Dec-2025 06:45:29 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[02-Dec-2025 06:58:37 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 3
+)
+
+[02-Dec-2025 06:58:37 Europe/Berlin] Parsed appointmentid: 1, serviceid: 3
+[02-Dec-2025 06:58:37 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[02-Dec-2025 06:58:41 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 4
+    [serviceid] => 3
+)
+
+[02-Dec-2025 06:58:41 Europe/Berlin] Parsed appointmentid: 4, serviceid: 3
+[02-Dec-2025 06:58:41 Europe/Berlin] Query result: Array
+(
+    [status] => Cancelled
+)
+
+[02-Dec-2025 07:00:48 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 5
+    [serviceid] => 4
+)
+
+[02-Dec-2025 07:00:48 Europe/Berlin] Parsed appointmentid: 5, serviceid: 4
+[02-Dec-2025 07:00:48 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[02-Dec-2025 07:00:58 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 4
+    [serviceid] => 4
+)
+
+[02-Dec-2025 07:00:58 Europe/Berlin] Parsed appointmentid: 4, serviceid: 4
+[02-Dec-2025 07:00:58 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[02-Dec-2025 07:01:05 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 1
+    [serviceid] => 3
+)
+
+[02-Dec-2025 07:01:05 Europe/Berlin] Parsed appointmentid: 1, serviceid: 3
+[02-Dec-2025 07:01:05 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
+[02-Dec-2025 07:02:27 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 5
+    [serviceid] => 4
+)
+
+[02-Dec-2025 07:02:27 Europe/Berlin] Parsed appointmentid: 5, serviceid: 4
+[02-Dec-2025 07:02:27 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[02-Dec-2025 07:02:35 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 4
+    [serviceid] => 4
+)
+
+[02-Dec-2025 07:02:35 Europe/Berlin] Parsed appointmentid: 4, serviceid: 4
+[02-Dec-2025 07:02:35 Europe/Berlin] Query result: Array
+(
+    [status] => Scheduled
+)
+
+[02-Dec-2025 07:40:47 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 8
+    [serviceid] => 5
+)
+
+[02-Dec-2025 07:40:47 Europe/Berlin] Parsed appointmentid: 8, serviceid: 5
+[02-Dec-2025 07:40:47 Europe/Berlin] Query result: Array
+(
+    [status] => Pending
+)
+
+[02-Dec-2025 09:07:52 Europe/Berlin] POST data received: Array
+(
+    [appointmentid] => 10
+    [serviceid] => 3
+)
+
+[02-Dec-2025 09:07:52 Europe/Berlin] Parsed appointmentid: 10, serviceid: 3
+[02-Dec-2025 09:07:52 Europe/Berlin] Query result: Array
+(
+    [status] => Completed
+)
+
