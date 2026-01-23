@@ -35,3 +35,4 @@ try {
     echo "Connection Error. Check logs."; 
     exit;
 }
+
