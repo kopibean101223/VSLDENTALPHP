@@ -1,7 +1,7 @@
 <?php
 // db_connect.php
 
-$databaseUrl = getenv('postgresql://vsldentalclinic_user:ooro8vftuv4NViuMIaDhjolP7gldgAoh@dpg-d5lmiqcmrvns73ejor6g-a.oregon-postgres.render.com/vsldentalclinic');
+$databaseUrl = getenv('postgresql://vsldentalclinic_user:ooro8vftuv4NViuMIaDhjolP7gldgAoh@dpg-d5lmiqcmrvns73ejor6g-a.oregon-postgres.render.com:5432/vsldentalclinic?sslmode=require');
 
 if (!$databaseUrl) {
     error_log("DATABASE_URL not set");
@@ -26,3 +26,4 @@ try {
     http_response_code(500);
     exit;
 }
+
