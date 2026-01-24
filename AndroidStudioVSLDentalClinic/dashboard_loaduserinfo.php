@@ -1,4 +1,4 @@
-    <?php
+<?php
 header('Content-Type: application/json');
 require 'db_connect.php';    // make sure $conn is PDO instance
 
@@ -33,3 +33,4 @@ if ($userID) {
     ]);
 }
 ?>
+
